@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Thomas Huelsken
+- 👀 I’m interested in Programming (Python)
+- 🌱 I’m currently learning Python, OOP, ORM, Databases
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me: thomas.huelsken@dci-student.org
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love exploring new programming paradigms and techniques!
